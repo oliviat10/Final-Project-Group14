@@ -14,8 +14,9 @@ Datasets used:
   https://data.wprdc.org/dataset/police-incident-blotter
 - Pittsburgh Public Schools Enrollment by Neighborhood 2020-21 School Year (Olivia) 
   https://data.wprdc.org/dataset/27b6eef7-8825-4cc4-8b48-52c17ac80d37/resource/cbf270fd-891e-49bb-98fb-d6d52c260847/download/neighborhood_enrollment.csv
-- Toxic Chemical Exposure (Marko)
-
+- Toxic Air Releases (Marko)
+  https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013
+ 
 Abstract:
 - The best neighborhood: ____
 
