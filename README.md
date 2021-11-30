@@ -1,4 +1,4 @@
-# Final-Project-MOK
+# Final-Project-KOM
 Big Ideas Final Project Woo!
 
 Group 14 --> "The KOMpilers" :
@@ -7,7 +7,7 @@ Olivia Terry ort13@pitt.edu, &
 Marko Melishchuk mam900@pitt.edu
 
 Description: 
-- Our group decided to determine "the Best Neighborhood in Pittsburgh" by evaluating the most important factors which make a neighborhood the best place to comfortably raise a family. The metrics that we decided were critical to this evaluation were the frequency of crime, the number of students in each neighborhood that are enrolled in Pittsburgh's public schools, and the levels of toxic chemicals in the air (since cities are already typically areas of such highly polluted air).
+- Our group decided to determine "the Best Neighborhood in Pittsburgh" by evaluating the most important factors which make a neighborhood the best place to comfortably raise a family. The metrics that we decided were critical to this evaluation were the median age of death (lower median age = higher chance of loss of parents), the number of students in each neighborhood that are enrolled in Pittsburgh's public schools, and the levels of toxic chemicals in the air (since cities are already typically areas of such highly polluted air).
 
 Datasets used:
 - Allegheny County Median Age at Death (Kyle)
