@@ -18,6 +18,6 @@ Datasets used:
   https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013
  
 Abstract:
-- The best neighborhood: ____
+- The best neighborhood: Carrick and Squirrel Hill South
 
-- How we arrived at this conclusion: ____
+- How we arrived at this conclusion: By assigning point values for different aspects of the three metrics (median age of death, public school enrollment, and toxic air releases), Carrick and Squirrel Hill South emerged tied with the highest points, each at 4.5 points.
