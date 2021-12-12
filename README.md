@@ -18,6 +18,6 @@ Datasets used:
   https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013
  
 Abstract:
-- The best neighborhood: Carrick and Squirrel Hill South
+- The best neighborhood(s): Carrick and Squirrel Hill South!
 
-- How we arrived at this conclusion: By assigning point values for different aspects of the three metrics (median age of death, public school enrollment, and toxic air releases), Carrick and Squirrel Hill South emerged tied with the highest points, each at 4.5 points.
+- How we arrived at this conclusion: Our group strategized a system for comparison by assigning point values respective to the winners of each of the three metrics (median age of death, public school enrollment, and toxic air releases). Kyle determined that the neighborhood with the latest median age of death was Squirrel Hill South, Olivia found that Carrick had the highest total public school enrollment and that Beechview had the most diverse public school environment, and Marko found that toxic air release wasn't necessarily as critical a factor as initially anticipated; every neighborhood other than Clairton, Springdale, Sheraden, and Neville Island had a mostly harmless level of chemicals in the air. Based on these analyses, our combined metrics served to conclude that Carrick and Squirrel Hill South emerged tied as the best neighborhoods to raise a family comfortably with the highest number of points (3 each).
